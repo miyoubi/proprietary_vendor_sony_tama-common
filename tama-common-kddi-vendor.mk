@@ -844,7 +844,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/tama-common-kddi/proprietary/vendor/lib/libstagefright_hdcp.so:$(TARGET_COPY_OUT_VENDOR)/lib/libstagefright_hdcp.so \
     vendor/sony/tama-common-kddi/proprietary/vendor/lib/libsuntory.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsuntory.so \
     vendor/sony/tama-common-kddi/proprietary/vendor/lib/libswiqisettinghelper.so:$(TARGET_COPY_OUT_VENDOR)/lib/libswiqisettinghelper.so \
-    vendor/sony/tama-common-kddi/proprietary/vendor/lib/libswvdec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libswvdec.so \
     vendor/sony/tama-common-kddi/proprietary/vendor/lib/libsymphony-cpu.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsymphony-cpu.so \
     vendor/sony/tama-common-kddi/proprietary/vendor/lib/libsymphonypower.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsymphonypower.so \
     vendor/sony/tama-common-kddi/proprietary/vendor/lib/libsys-utils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsys-utils.so \
@@ -855,7 +854,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/tama-common-kddi/proprietary/vendor/lib/libtinyxml2_1.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtinyxml2_1.so \
     vendor/sony/tama-common-kddi/proprietary/vendor/lib/libtzdrmgenprov.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtzdrmgenprov.so \
     vendor/sony/tama-common-kddi/proprietary/vendor/lib/libvppclient.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvppclient.so \
-    vendor/sony/tama-common-kddi/proprietary/vendor/lib/libvpphcp.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvpphcp.so \
     vendor/sony/tama-common-kddi/proprietary/vendor/lib/libvpphvx.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvpphvx.so \
     vendor/sony/tama-common-kddi/proprietary/vendor/lib/libvpplibrary.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvpplibrary.so \
     vendor/sony/tama-common-kddi/proprietary/vendor/lib/libwfdcodecv4l2_proprietary.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwfdcodecv4l2_proprietary.so \
@@ -1270,7 +1268,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/tama-common-kddi/proprietary/vendor/lib64/libtpm.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtpm.so \
     vendor/sony/tama-common-kddi/proprietary/vendor/lib64/libtzdrmgenprov.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtzdrmgenprov.so \
     vendor/sony/tama-common-kddi/proprietary/vendor/lib64/libvppclient.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvppclient.so \
-    vendor/sony/tama-common-kddi/proprietary/vendor/lib64/libvpphcp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvpphcp.so \
     vendor/sony/tama-common-kddi/proprietary/vendor/lib64/libvpphvx.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvpphvx.so \
     vendor/sony/tama-common-kddi/proprietary/vendor/lib64/libvpplibrary.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvpplibrary.so \
     vendor/sony/tama-common-kddi/proprietary/vendor/lib64/libwfdhdcpcp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwfdhdcpcp.so \
