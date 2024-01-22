@@ -608,7 +608,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/tama-common-kddi/proprietary/vendor/lib/libOmxDsdDec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libOmxDsdDec.so \
     vendor/sony/tama-common-kddi/proprietary/vendor/lib/libOmxEvrcDec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libOmxEvrcDec.so \
     vendor/sony/tama-common-kddi/proprietary/vendor/lib/libOmxG711Dec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libOmxG711Dec.so \
-    vendor/sony/tama-common-kddi/proprietary/vendor/lib/libOmxMux_proprietary.so:$(TARGET_COPY_OUT_VENDOR)/lib/libOmxMux_proprietary.so \
     vendor/sony/tama-common-kddi/proprietary/vendor/lib/libOmxQcelp13Dec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libOmxQcelp13Dec.so \
     vendor/sony/tama-common-kddi/proprietary/vendor/lib/libOmxSwVdec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libOmxSwVdec.so \
     vendor/sony/tama-common-kddi/proprietary/vendor/lib/libOmxSwVencMpeg4.so:$(TARGET_COPY_OUT_VENDOR)/lib/libOmxSwVencMpeg4.so \
@@ -844,6 +843,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/tama-common-kddi/proprietary/vendor/lib/libstagefright_hdcp.so:$(TARGET_COPY_OUT_VENDOR)/lib/libstagefright_hdcp.so \
     vendor/sony/tama-common-kddi/proprietary/vendor/lib/libsuntory.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsuntory.so \
     vendor/sony/tama-common-kddi/proprietary/vendor/lib/libswiqisettinghelper.so:$(TARGET_COPY_OUT_VENDOR)/lib/libswiqisettinghelper.so \
+    vendor/sony/tama-common-kddi/proprietary/vendor/lib/libswvdec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libswvdec.so \
     vendor/sony/tama-common-kddi/proprietary/vendor/lib/libsymphony-cpu.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsymphony-cpu.so \
     vendor/sony/tama-common-kddi/proprietary/vendor/lib/libsymphonypower.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsymphonypower.so \
     vendor/sony/tama-common-kddi/proprietary/vendor/lib/libsys-utils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsys-utils.so \
